@@ -1,0 +1,5 @@
+﻿  main.cpp
+  udpserver.cpp
+  moc_udpserver.cpp
+  qrc_udpserver.cpp
+  udpserver.vcxproj -> E:\visual studio\udpserver\x64\Debug\udpserver.exe
